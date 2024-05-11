@@ -1,8 +1,8 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Elgazar",
-    "theme": "ELSA-MD",
-    "LANGUAGE": "elsabot2",
+    "AUTHOR": "RYAN",
+    "theme": "SUNG-RY",
+    "LANGUAGE": "sungbot",
     "LANGCODE": "ar",
     "STRINGS": { 
         "updater": { 
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*اتركه كما هو"
         }, 
         "global": {     
-            "botName": "*『❄️┇❆ 𝐸𝐿𝑆𝐴 𝐵𝑂𝑇-𝑀𝐷 ❆┇❄️』*",
+            "botName": "*『❄️┇❆ SUNG BOT-RY ❆┇❄️』*",
             "body": "بوت واتساب عربي", 
             "greet2" : "شكرا للمطور الجزار",
             "pic1": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg", 
@@ -22,7 +22,7 @@
             "pic6": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg", 
             "pic7": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg",
             "greet" : "Believe it",
-            "dotbody" : "قررت ان اكون السا بوت",
+            "dotbody" : "قررت ان اكون سونغ بوت",
             "emojii" : "🍑", 
             "promote": "تم رفع البوت ادمن",
             "pmallow": "مرحبًا، هذه معلومات Elsa Tech Info\n لقد تم حظرك بسبب إرسال بريد عشوائي.\n\n _Powered by Elsa Tech Info_",
@@ -33,9 +33,9 @@
             "antlink": "اتركه كما هو",
             "session": "\nاتركه كما هو",
             "mention": " اتركه كما هو",
-            "title": "*『❄️┇❆ 𝐸𝐿𝑆𝐴 𝐵𝑂𝑇-𝑀𝐷 ❆┇❄️』*",
-            "footer": "𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑",
-            "by": "Made by: Elgazar Tech Info",
+            "title": "*『❄️┇❆ SUNG BOT-RY ❆┇❄️』*",
+            "footer": " ryan1ed ",
+            "by": "Made by: NOBODY KNOWS",
             "chat_desc": "اتركه كما هو",
             "success": "*֎╎تــم✅*",
             "dot": "اتركه كما هو",
